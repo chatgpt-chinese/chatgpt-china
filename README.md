@@ -5,9 +5,9 @@
 
 直接使用 [**ChatGPT中文版**](https://chat.yixiaai.com)！**无需翻墙，支持GPT-4，无限使用GPT-4o和o1**
 
-我们为大家整理了一些国内可用的 [**ChatGPT中文版**](https://chat.lanjing.ai)，方便用户无需翻墙即可使用
+我们为大家整理了一些国内可用的 [**ChatGPT中文版**](https://chat.lanjing.pro)，方便用户无需翻墙即可使用
 
-同时提供了 [**ChatGPT镜像网站**](https://chat.yixiaai.com) 和**ChatGPT使用教程**，助您快速上手，在国内使用上 [**ChatGPT中文版镜像网站**](https://chat.lanjing.ai)，**无限制使用GPT-4o、o1**。
+同时提供了 [**ChatGPT镜像网站**](https://chat.yixiaai.com) 和**ChatGPT使用教程**，助您快速上手，在国内使用上 [**ChatGPT中文版镜像网站**](https://chat.lanjing.pro)，**无限制使用GPT-4o、o1**。
 
 ## 什么是ChatGPT中文版？
 
@@ -23,11 +23,11 @@
 ## ChatGPT中文版 ChatGPT中文网
 
 - [https://chat.yixiaai.com/](https://chat.yixiaai.com/) - **ChatGPT中文版**，运营快2年，支持 GPT4、4o 以及 o1，支持 AI绘画，扫码就能用~
-- [https://chat.lanjing.ai](https://chat.lanjing.ai/) - **ChatGPT 中文站**，支持 GPT-4o、o1、o3 及 DeepSeek R1、Claude 3.7 sonnet、Grok 3 最先进的模型，无限使用~
+- [https://chat.lanjing.pro](https://chat.lanjing.pro/) - **ChatGPT 中文站**，支持 GPT-4o、o1、o3 及 DeepSeek R1、Claude 3.7 sonnet、Grok 3 最先进的模型，无限使用~
 - [https://chat.lify.vip/](https://www.yixiaai.com/) - **ChatGPT镜像网站**，运营快2年，支持 GPT4、4o 以及 o1，AI文件、AI PPT、AI助手、AI插件功能、思维导图~
-- [https://guide1.lanjing.ai/](https://guide1.lanjing.ai/) - **ChatGPT镜像网站**，运营1年多，支持 GPT4、4o，支持AI绘画（Midjourney和Dall·E）
+- [https://guide1.lanjing.pro/](https://guide1.lanjing.pro/) - **ChatGPT镜像网站**，运营1年多，支持 GPT4、4o，支持AI绘画（Midjourney和Dall·E）
 - [https://ai.lansejingyu.com/](https://ai.lansejingyu.com/) - ChatGPT-4 镜像，支持 GPT4、4o，简单便捷~
-- [https://lanjing.ai/](https://lanjing.ai/) - **免费ChatGPT**，支持 GPT4、4o 支持 MJ 绘画
+- [https://lanjing.pro/](https://lanjing.pro/) - **免费ChatGPT**，支持 GPT4、4o 支持 MJ 绘画
 
 ## 如何快速开始使用？（详细教程）
   选择上方的网址，如：[https://chat.yixiaai.com/](https://chat.yixiaai.com/)。 <br />
