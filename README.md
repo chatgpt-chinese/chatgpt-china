@@ -1,6 +1,6 @@
 # ChatGPT中文版 - ChatGPT中文网 支持GPT-4，无限使用GPT-4o和o1~ 【2025年5月更新】
 
-> 更新：2025/05/21    
+> 更新：2025/05/24    
 > 作者：chatgpt-chinese            
 
 直接使用 [**ChatGPT中文版**](https://chat.lanjing.pro)！**无需翻墙，支持GPT-4，无限使用GPT-4o和o1**
